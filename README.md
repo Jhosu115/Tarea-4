@@ -41,7 +41,7 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://github.com/Jhosu115/Tarea-4/blob/main/CIRCUITO%20EN%20PARALELO.png)
   
- ![image](https://github.com/Jhosu115/Tarea-4/blob/main/CIRCUITO%20EN%20PARALELO.png)
+ ![image](https://github.com/Jhosu115/Tarea-4/blob/main/circuito%20en%20serie.png)
   
  </div>
 
