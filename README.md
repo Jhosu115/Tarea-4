@@ -37,7 +37,12 @@ Ing. Darwin Omar Alulema Flores
 # 2. MARCO TEORICO
 
 
-
+<div align="center">
+  
+![image](https://github.com/Jhosu115/Tarea-4/blob/main/CIRCUITO%20EN%20PARALELO.png)
+  
+  
+ </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
