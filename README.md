@@ -47,12 +47,12 @@ Ing. Darwin Omar Alulema Flores
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-
+[Ejercicios Resueltos](https://github.com/Jhosu115/Tarea-2-/blob/main/Ejercicios%20Capítulos%203%20y%204.pdf)
 
 
 # 4. VIDEO
 
-https://youtu.be/vuZpa4WXclY
+
 
 # 5. CONCLUSIONES
 
